@@ -9,4 +9,4 @@ Esse é o meu portfólio com projetos pessoais em desenvolvimento.
 
 Projetos irão sendo adicionado e melhorados ao decorrer da minha trajetória em TI.
 
-## 👍👍 ESPERO QUE GOSTE!
+## ESPERO QUE GOSTE! 👍👍
