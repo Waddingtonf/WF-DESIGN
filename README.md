@@ -5,8 +5,6 @@ Transformando ideias em arte!
 
 Esse é o meu portfólio com projetos pessoais em desenvolvimento.
 
-##
-
 ## 📃 Objetivo:
 
 Projetos irão sendo adicionado e melhorados ao decorrer da minha trajetória em TI.
